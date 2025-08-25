@@ -44,13 +44,6 @@ Build a complete User Management System using Vue 3 and json-server to practice 
 - Update UI after successful deletion
 - Prevent accidental deletions
 
-### 6. Additional Features (Bonus)
-- User detail view page
-- Bulk operations (delete multiple users)
-- Export user list to CSV
-- Dark/light theme toggle
-- Loading states and error handling
-
 ## Technical Requirements
 
 - Use Vue 3 with Composition API
